@@ -2,7 +2,7 @@ from app import app
 
 import unittest
 import json
-
+# test
 class CitiesTestCase(unittest.TestCase):
 
   def test_index(self):
